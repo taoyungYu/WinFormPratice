@@ -1,0 +1,16 @@
+[
+  {
+    "eventId": "0",
+    "eventName": "event name 0",
+    "startTime": "2022-02-01 10:00",
+    "endTime": "2022-02-01 12:00",
+    "maxSeats": 10
+  },
+  {
+    "eventId": "1",
+    "eventName": "event name 1",
+    "startTime": "2022-02-02 10:00",
+    "endTime": "2022-02-02 12:00",
+    "maxSeats": null
+  }
+]
